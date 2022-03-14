@@ -1,0 +1,73 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: solowoo 1.1.0\n"
+"Report-Msgid-Bugs-To: https://soalwp.com\n"
+"POT-Creation-Date: 2022-03-05 22:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: soalwp Mal<info@soalwp.com>\n"
+"Language-Team: No linguistic content\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: fa_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: inc/Actions.php
+msgid "کد: "
+msgstr ""
+
+#: inc/Menu.php
+msgid "ثبت محصول با آپلود عکس"
+msgstr ""
+
+#: inc/Menu.php
+msgid "ایجاد محصولات ووکامرس"
+msgstr ""
+
+#: inc/Menu.php
+msgid "اطلاعات محصول"
+msgstr ""
+
+#: inc/Menu.php
+msgid "متاسفانه! تایید نشد"
+msgstr ""
+
+#: inc/Menu.php
+msgid "با موفقیت ذخیره شد."
+msgstr ""
+
+#: inc/Menu.php
+msgid "ایجاد محصول با آپلود عکس در رسانه"
+msgstr ""
+
+#: inc/Menu.php
+msgid "نام محصول"
+msgstr ""
+
+#: inc/Menu.php
+msgid "دسته بندی محصول"
+msgstr ""
+
+#: inc/Menu.php
+msgid "برچسب ها را با کاما از هم جداکنید."
+msgstr ""
+
+#: inc/Menu.php
+msgid "به روزرسانی"
+msgstr ""
+
+#: inc/Menu.php
+msgid "فعال"
+msgstr ""
+
+#: inc/Menu.php
+msgid "غیرفعال"
+msgstr ""
+
+#: inc/Menu.php
+msgid "برچسب"
+msgstr ""

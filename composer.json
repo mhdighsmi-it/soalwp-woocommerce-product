@@ -1,0 +1,17 @@
+{
+    "name": "soalwp/woocommerce-product",
+    "description": "create product woocommerce fast from upload images",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "soalwp",
+            "email": "info@soalwo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{"SWCMP\\":"./inc"}
+    },
+    "require": {}
+}
